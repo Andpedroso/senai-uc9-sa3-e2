@@ -1,0 +1,12 @@
+.banner {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.footer {
+    text-decoration: none;
+    display: flex;
+    margin: 20px;
+    text-transform: uppercase;
+    color: black;
+}
